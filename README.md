@@ -1,0 +1,2 @@
+# Blog-Api
+ GitHub Description:  Title: Simple Blog API using Django REST Framework  Description: This is a beginner-level API for managing blog posts, built using Django and Django REST Framework (DRF). The API allows users to perform CRUD (Create, Retrieve, Update, Delete) operations on blog posts. The project includes:  Retrieving a list of all blog posts with pagination. Retrieving details of a specific blog post. Creating new blog posts. Updating existing blog posts. Deleting blog posts.
